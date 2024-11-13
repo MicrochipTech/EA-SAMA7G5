@@ -9,7 +9,7 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
 * https://www.microchip.com/en-us/product/SAMA7G54
 * https://www.microchip.com/en-us/product/SAMA7G54D1G
 * https://www.microchip.com/en-us/product/SAMA7G54D2G
-* 
-## SAM9X7 Series Fine Pitch Package Devices Collaterals
+  
+## SAMA7G54 4-Gbit SiP Collaterals
 * Documentation
   * [SAMA7G54 4-Gbit DDR3L SiP Preliminary Product Brief](4Gb/)
