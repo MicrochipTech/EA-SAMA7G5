@@ -5,7 +5,7 @@ The SAMA7G54 integrates complete imaging and audio subsystems with 12-bit parall
 The device also features a large number of connectivity options including Dual Ethernet (one Gigabit Ethernet and one 10/100 Ethernet), six CAN-FD and three high-speed USB. Advanced security functions like secure boot, secure key storage, high-performance crypto accelerators for AES, SHA, RSA and ECC are also supported.
 Microchip provides an optimized power management solution for the SAMA7G54. The MCP16502 has been fully tested and optimized to provide the best power vs. performance for the SAMA7G54.
 
-For more information about the SAM9X75 CPU, or the associated SIPs referenced above, please visit the respective product page on Microchip.com.
+For more information about the SAMA7G54 CPU, or the associated SIPs referenced above, please visit the respective product page on Microchip.com.
 * https://www.microchip.com/en-us/product/SAMA7G54
 * https://www.microchip.com/en-us/product/SAMA7G54D1G
 * https://www.microchip.com/en-us/product/SAMA7G54D2G
