@@ -6,9 +6,11 @@ The device also features a large number of connectivity options including Dual E
 Microchip provides an optimized power management solution for the SAMA7G54. The MCP16502 has been fully tested and optimized to provide the best power vs. performance for the SAMA7G54.
 
 For more information about the SAMA7G54 CPU, or the associated SIPs referenced above, please visit the respective product page on Microchip.com.
-* https://www.microchip.com/en-us/product/SAMA7G54
-* https://www.microchip.com/en-us/product/SAMA7G54D1G
-* https://www.microchip.com/en-us/product/SAMA7G54D2G
+* SoC
+  * https://www.microchip.com/en-us/product/SAMA7G54
+* SiP
+  * https://www.microchip.com/en-us/product/SAMA7G54D1G
+  * https://www.microchip.com/en-us/product/SAMA7G54D2G
   
 ## SAMA7G54 4-Gbit SiP Specific Collaterals
 * Documentation
