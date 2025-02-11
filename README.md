@@ -12,7 +12,7 @@ For more information about the SAMA7G54 CPU, or the associated SIPs referenced a
   * https://www.microchip.com/en-us/product/SAMA7G54D1G
   * https://www.microchip.com/en-us/product/SAMA7G54D2G
   
-## SAMA7G54 4-Gbit SiP Specific Collaterals
+## SAMA7G54 SiP 4Gbit Specific Collaterals
 * Documentation
   * [SAMA7G54 4-Gbit DDR3L SiP Preliminary Product Brief](4Gb/)
 * IBIS
