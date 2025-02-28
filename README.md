@@ -18,3 +18,12 @@ For more information about the SAMA7G54 CPU, or the associated SIPs referenced a
 * IBIS
   * [SAMA7G54 SiP IBIS models](4Gb/)
 * Find the other available collaterals on the Microchip SAMA7G54 SiP pages
+
+## SAMA7G54 SoC High Density TFBGA375 Specific Collaterals
+* Documentation
+  * Available soon. Please contact our nearest sales office for more info.
+* BSDL
+  * Available soon. Please contact our nearest sales office for more info.
+* IBIS
+  * Available soon. Please contact our nearest sales office for more info.
+* Find the other available collaterals on the Microchip SAMA7G54 SoC pages
