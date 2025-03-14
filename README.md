@@ -21,9 +21,9 @@ For more information about the SAMA7G54 CPU, or the associated SIPs referenced a
 
 ## SAMA7G54 SoC High Density TFBGA375 Specific Collaterals
 * Documentation
-  * Available soon. Please contact our nearest sales office for more info.
+  * [High-Density BGA Routing Guidelines for Microchip MPUs](https://www.microchip.com/en-us/application-notes/an5871)
 * BSDL
-  * Available soon. Please contact our nearest sales office for more info.
+  * [SAMA7G54 SiP IBIS models](4Gb/)
 * IBIS
-  * Available soon. Please contact our nearest sales office for more info.
+  * [SAMA7G54 SiP IBIS models](4Gb/)
 * Find the other available collaterals on the Microchip SAMA7G54 SoC pages
