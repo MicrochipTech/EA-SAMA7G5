@@ -23,7 +23,7 @@ For more information about the SAMA7G54 CPU, or the associated SIPs referenced a
 * Documentation
   * [High-Density BGA Routing Guidelines for Microchip MPUs](https://www.microchip.com/en-us/application-notes/an5871)
 * BSDL
-  * [SAMA7G54 SiP IBIS models](HighDensityBGA/)
+  * [SAMA7G54 SoC High Density TFBGA375 IBIS models](HighDensityBGA/)
 * IBIS
-  * [SAMA7G54 SiP IBIS models](HighDensityBGA/)
+  * [SAMA7G54 SoC High Density TFBGA375 IBIS models](HighDensityBGA/)
 * Find the other available collaterals on the Microchip SAMA7G54 SoC pages
