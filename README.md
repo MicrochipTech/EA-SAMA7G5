@@ -21,8 +21,8 @@ For more information about the SAMA7G54 CPU, or the associated SIPs referenced a
 
 ## SAMA7G54 SoC High Density TFBGA375 Specific Collaterals
 * Documentation
-  * Datasheet - coming soon
-  * Errata - coming soon
+  * [SAMA7G54 SoC Datasheet](HighDensityBGA/)
+  * [SAMA7G54 SoC Errata sheet](HighDensityBGA/)
   * [High-Density BGA Routing Guidelines for Microchip MPUs](https://www.microchip.com/en-us/application-notes/an5871)
 * BSDL
   * [SAMA7G54 SoC High Density TFBGA375 BSDL models](HighDensityBGA/)
