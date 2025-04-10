@@ -7,19 +7,21 @@ Microchip provides an optimized power management solution for the SAMA7G54. The 
 
 For more information about the SAMA7G54 CPU, or the associated SIPs referenced above, please visit the respective product page on Microchip.com.
 * SoC
-  * https://www.microchip.com/en-us/product/SAMA7G54
+  * [SAMA7G54](https://www.microchip.com/en-us/product/SAMA7G54): Released to Production (RTP)
+  * SAMA7G54 High Density BGA: Early Adopter (EA)
 * SiP
-  * https://www.microchip.com/en-us/product/SAMA7G54D1G
-  * https://www.microchip.com/en-us/product/SAMA7G54D2G
+  * [SAMA7G54D1G](https://www.microchip.com/en-us/product/SAMA7G54D1G): Released to Production (RTP)
+  * [SAMA7G54D2G](https://www.microchip.com/en-us/product/SAMA7G54D2G): Released to Production (RTP)
+  * SAMA7G54D4G: Early Adopter (EA)
   
-## SAMA7G54 SiP 4Gbit Specific Collaterals
+## SAMA7G54D4G - SiP 4Gbit Specific Collaterals
 * Documentation
   * [SAMA7G54 4-Gbit DDR3L SiP Preliminary Product Brief](4Gb/)
 * IBIS
   * [SAMA7G54 SiP IBIS models](4Gb/)
 * Find the other available collaterals on the Microchip SAMA7G54 SiP pages
 
-## SAMA7G54 SoC High Density TFBGA375 Specific Collaterals
+## SAMA7G54 - SoC High Density BGA Specific Collaterals
 * Documentation
   * [SAMA7G54 SoC Datasheet](HighDensityBGA/)
   * [SAMA7G54 SoC Errata sheet](HighDensityBGA/)
