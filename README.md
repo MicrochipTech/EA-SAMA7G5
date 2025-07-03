@@ -12,14 +12,7 @@ For more information about the SAMA7G54 CPU, or the associated SIPs referenced a
 * SiP
   * [SAMA7G54D1G](https://www.microchip.com/en-us/product/SAMA7G54D1G): Released to Production (RTP)
   * [SAMA7G54D2G](https://www.microchip.com/en-us/product/SAMA7G54D2G): Released to Production (RTP)
-  * SAMA7G54D4G: Early Adopter (EA)
-  
-## SAMA7G54D4G - SiP 4Gbit Specific Collaterals
-* Documentation
-  * [SAMA7G54 4-Gbit DDR3L SiP Preliminary Product Brief](4Gb/)
-* IBIS
-  * [SAMA7G54 SiP IBIS models](4Gb/)
-* Find the other available collaterals on the Microchip SAMA7G54 SiP pages
+  * [SAMA7G54D4G](https://www.microchip.com/en-us/product/SAMA7G54D4G): Released to Production (RTP)
 
 ## SAMA7G54 - SoC High Density BGA Specific Collaterals
 * Documentation
