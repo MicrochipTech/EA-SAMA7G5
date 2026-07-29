@@ -2,7 +2,7 @@
 ## SAMA7G54D4G - SiP 442-ball TFBGA 16x16x1.2 Collaterals
   * Data Sheet (coming soon)
   * Errata sheet (coming soon)
-  * DFP - Header Files (coming soon)
+  * BSDL File (coming soon)
 ## SAMA7G5 Released To Production (RTP) Collaterals
 * SoC
   * [SAMA7G54](https://www.microchip.com/en-us/product/SAMA7G54)
