@@ -1,7 +1,7 @@
 # SAMA7G5 SoC and SiP Series Early Access Repository
 ## SAMA7G54D4G - SiP 442-ball TFBGA 16x16x1.2 Collaterals
   * Data Sheet (coming soon)
-  * Errata sheet (coming soon)
+  * Errata Sheet (coming soon)
   * BSDL File (coming soon)
 ## SAMA7G5 Released To Production (RTP) Collaterals
 * SoC
